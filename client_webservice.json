@@ -1,0 +1,7 @@
+{
+  "CentralServerHost": "localhost",
+  "CentralServerPort": "3000",
+  "CentralServerResource": "sysintegration/test/update",
+  "HostCommand": "systeminfo",
+  "HostCommandArgs": ["/FO", "TABLE"]
+}
